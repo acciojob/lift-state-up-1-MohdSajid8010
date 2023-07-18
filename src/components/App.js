@@ -17,7 +17,7 @@ const App = () => {
           showModal ? (
             <div >
               <h3>Modal Content</h3>
-              <div>This is Modal Content</div>
+              <p>This is Modal Content</p>
             </div>
           ) : ("")
         }
