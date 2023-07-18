@@ -12,6 +12,7 @@ const App = () => {
       <div className="child">
       <h1>Child Component</h1>
 
+
         <button onClick={() => setshowModal(!showModal)}>Show Modal</button>
         {
           showModal ? (
